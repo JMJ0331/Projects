@@ -1,2 +1,0 @@
-Hola al mundo del github con git
-
