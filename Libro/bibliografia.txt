@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+Scott Chacon and Ben Straub. Pro Git. Apress.
+Rya Hodson. Ry's Git Tutorial.Smashwords (2014)
+>>>>>>> bibliografia
